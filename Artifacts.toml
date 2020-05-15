@@ -1,0 +1,6 @@
+[pybind11]
+git-tree-sha1 = "c6bcc6735100136cce32484fabb8de64f7690204"
+
+    [[pybind11.download]]
+    sha256 = "8545aa81e968db43050a45dfbfbd936be5c35dea4f3b2d3a14c27d99758a4762"
+    url = "https://github.com/JuliaBinaryWrappers/pybind11_jll.jl/releases/download/pybind11-v2.5.0+0/pybind11.v2.5.0.any.tar.gz"
